@@ -5,5 +5,12 @@
     "role": "reseller",
     "expiresAt": 1761382787937,
     "createdAt": 1761296387937
+  },
+  {
+    "username": "ayam",
+    "password": "212",
+    "role": "owner",
+    "expiresAt": 1761382902152,
+    "createdAt": 1761296502152
   }
 ]
