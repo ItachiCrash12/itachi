@@ -12,5 +12,12 @@
     "role": "owner",
     "expiresAt": 1761382902152,
     "createdAt": 1761296502152
+  },
+  {
+    "username": "wawan",
+    "password": "ayam123",
+    "role": "owner",
+    "expiresAt": 1762161047566,
+    "createdAt": 1761297047566
   }
 ]
