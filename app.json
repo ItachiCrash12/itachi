@@ -26,5 +26,12 @@
     "role": "owner",
     "expiresAt": 1761479432947,
     "createdAt": 1761393032947
+  },
+  {
+    "username": "bot",
+    "password": "5UME",
+    "role": "owner",
+    "expiresAt": 1761659803589,
+    "createdAt": 1761573403589
   }
 ]
